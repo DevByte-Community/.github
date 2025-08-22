@@ -43,7 +43,7 @@ DevByte is powered by volunteers who dedicate time and skills to make the commun
 
 - **Founder**: [Christian (Chika) Eze](https://github.com/chriscodehead)
 - **Engineering Lead**: [Tobechi Duru](https://github.com/Tobe01)
-- **Contributors & other Volunteers**: See our [community members](https://github.com/orgs/DevByte-Community/people).  
+- **Contributors & Other Volunteers**: See our [community members](https://github.com/orgs/DevByte-Community/people).  
 
 ---
 
