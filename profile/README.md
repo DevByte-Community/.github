@@ -47,7 +47,7 @@ DevByte is powered by volunteers who dedicate time and skills to make the commun
 ---
 
 ## 📜 License
-All repositories under the DevByte Community are licensed under the [MIT License](LICENSE) unless stated otherwise.  
+All repositories under the DevByte Community are licensed under the [MIT License](LICENSE.md) unless stated otherwise.  
 
 ---
 
