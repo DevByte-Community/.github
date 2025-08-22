@@ -41,9 +41,9 @@ Everyone is welcome! Here’s how you can join us:
 ## 👥 Our People
 DevByte is powered by volunteers who dedicate time and skills to make the community thrive.  
 
-- **Engineering Lead**: [Tobechi Duru](https://github.com/Tobe01)
 - **Founder**: [Christian (Chika) Eze](https://github.com/chriscodehead)
-- **Contributors & Volunteers**: See our [community members](https://github.com/orgs/DevByte-Community/people).  
+- **Engineering Lead**: [Tobechi Duru](https://github.com/Tobe01)
+- **Contributors & other Volunteers**: See our [community members](https://github.com/orgs/DevByte-Community/people).  
 
 ---
 
