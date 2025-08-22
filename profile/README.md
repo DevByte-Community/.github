@@ -4,12 +4,12 @@
 
 # DevByte Community
 
-Welcome to **DevByte** 👋🏽 — a growing community of developers, designers, and tech enthusiasts dedicated to collaboration, knowledge-sharing, and open-source contributions.  
+Welcome to **DevByte** 👋🏽 — a growing community of over 10,000 developers, designers, product managers, AI/ML engineers, data analysts and tech enthusiast dedicated to collaboration, knowledge-sharing, and open-source contributions.  
 
 ---
 
 ## 🌍 About Us
-DevByte is more than just a group of developers.  
+DevByte is more than just a group of techies.  
 We are a **community-driven initiative** that connects people across different skill levels and backgrounds, helping them learn, build, and grow together.  
 
 Our focus:
@@ -33,7 +33,8 @@ Everyone is welcome! Here’s how you can join us:
 1. 🌐 Explore our [repositories](https://github.com/orgs/DevByte-Community/repositories).  
 2. 💬 Join discussions and share your ideas.  
 3. 🛠️ Contribute to projects — no contribution is too small.  
-4. 🚀 Propose new initiatives that strengthen the community.  
+4. 🚀 Propose new initiatives that strengthen the community.
+5. 👥 Join our growing [community](https://whatsapp.com/channel/0029Va6FvbkA89MiftESfN3c).
 
 ---
 
