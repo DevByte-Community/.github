@@ -30,7 +30,7 @@ Our focus:
 
 ## 🛠️ How to Get Involved
 Everyone is welcome! Here’s how you can join us:
-1. 🌐 Explore our [repositories](https://github.com/DevByte-Community).  
+1. 🌐 Explore our [repositories](https://github.com/orgs/DevByte-Community/repositories).  
 2. 💬 Join discussions and share your ideas.  
 3. 🛠️ Contribute to projects — no contribution is too small.  
 4. 🚀 Propose new initiatives that strengthen the community.  
@@ -40,7 +40,8 @@ Everyone is welcome! Here’s how you can join us:
 ## 👥 Our People
 DevByte is powered by volunteers who dedicate time and skills to make the community thrive.  
 
-- **Engineering Lead**: [Tobechi Duru](https://github.com/Tobe01)  
+- **Engineering Lead**: [Tobechi Duru](https://github.com/Tobe01)
+- **Founder**: [Christian (Chika) Eze](https://github.com/Tobe01)
 - **Contributors & Volunteers**: See our [community members](https://github.com/orgs/DevByte-Community/people).  
 
 ---
