@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/devbyte-logo.png" alt="DevByte Community" width="200"/>
+  <img src="assets/IMG_20250811_164013_314.png" alt="DevByte Community" width="200"/>
 </p>
 
 # DevByte Community
